@@ -12,6 +12,8 @@ gem 'json'
 gem 'rspec-rails'
 gem 'webrat'
 
+gem 'pg'
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
